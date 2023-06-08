@@ -1,2 +1,2 @@
-# Coding Problems
-This repo contains problems that I solved (Perhaps in various languages) from various coding websites like codewars and leetcode.
+## Coding Problems
+This repo is a dump for various problems I solved in various coding websites.
